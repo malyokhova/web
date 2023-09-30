@@ -2,4 +2,4 @@
 
 >**Тема** - сервис по подбору вдохновляющей музыки, рабочего пространста и тд
 >
->Посмотреть сайт по ссылке [https://malyokhova.github.io/web/lab1-2/index.html]
+>Посмотреть сайт по ссылке https://malyokhova.github.io/web/lab1-2/index.html
